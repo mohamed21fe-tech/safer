@@ -1,0 +1,6 @@
+{
+  "name": "Safar - Syrian Intercity Bus Booking Portal",
+  "description": "Comprehensive Syrian intercity bus booking platform connecting all 14 governorates with real-time schedules, seat selection, digital QR ticketing, and Safar Wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
